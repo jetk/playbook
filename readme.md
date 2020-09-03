@@ -22,12 +22,14 @@ See if [[Amazon Leadership Principles]] could work
 
 ## Define
 
+- [[work backwards]]
+- Pre-define [[Customer Metrics]]
 - Scope solution space
 - Prioritise your goals
 
 ## Design
 
-- Set a North Star
+- Set a [[North Star Scenario]]
 - Contextualize (understand how people work)
 - Parse and Ideate
 - Confirm value
@@ -38,7 +40,7 @@ See if [[Amazon Leadership Principles]] could work
 
 - Scope development of solutions
 - [[Prioritise]]
-- Plan sprints
+- [[Plan sprints]]
 - Communicate
 - Clarify
 
@@ -58,6 +60,7 @@ See if [[Amazon Leadership Principles]] could work
 ## Measure
 
 - Measure North Stars (dashboard, alerts, make news come to you)
+- Measure Customer Metrics
 - Gather explicit feedback
 - Review
 - Retro
@@ -78,6 +81,10 @@ See if [[Amazon Leadership Principles]] could work
 [Amazon Leadership Principles]: amazon-leadership-principles "Amazon Leadership Principles"
 [Customer Discovery]: customer-discovery "Customer Discovery"
 [record]: record "Record"
+[Value Prototyping]: value-prototyping "Value Prototyping"
+[work backwards]: work-backwards "Work Backwards"
+[Customer Metrics]: customer-metrics "Customer Metrics"
+[North Star Scenario]: north-star-scenario "North Star Scenario"
 [Prioritise]: prioritise "Prioritise"
 [Convert]: convert "Convert"
 [Deputize]: deputize "Deputize"
