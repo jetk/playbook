@@ -1,11 +1,14 @@
 # Index: by stage
 
-Start here if you're lost. Or jump to: [[by problem]] or by [[by effort]]
+Start here if you're lost: [[mindset]]
+
+Or jump to: [[by problem]] or by [[by effort]]
 
 See if [[Amazon Leadership Principles]] could work
 
 ## Discover
 
+- [[Find a problem]]
 - Gather data
   - [[Customer Discovery]]
   - User interviews ([[record]] and transcibe everything)
@@ -86,6 +89,7 @@ See if [[Amazon Leadership Principles]] could work
 [Customer Metrics]: customer-metrics "Customer Metrics"
 [North Star Scenario]: north-star-scenario "North Star Scenario"
 [Prioritise]: prioritise "Prioritise"
+[Plan sprints]: plan-sprints "Plan Sprints"
 [Convert]: convert "Convert"
 [Deputize]: deputize "Deputize"
 [Develop relationships]: develop-relationships "Develop Relationships"

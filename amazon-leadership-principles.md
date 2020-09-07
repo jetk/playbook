@@ -4,7 +4,7 @@ These will apply to greater or lesser degree in relationship to the act of makin
 
 They are roughly ranked in frequency. Ownership is last because it's always important.
 
-Most critical LPs for Amazon PMs are bolded.
+Most critical LPs for Amazon PMs are bolded; however I chose this order as they apply to the doing of product, rather than the working as a product manager.
 
 ## ALPs
 
@@ -14,8 +14,8 @@ Most critical LPs for Amazon PMs are bolded.
 4. **[[Bias for Action]]**
 5. Deliver Results
 6. [[Think Big]]
-7. Frugality
-8. Learn and be Curious
+7. Learn and be Curious
+8. Frugality
 9. Insist on the highest standards
 10. **Earn Trust**
 11. [[Are Right, A Lot]]
