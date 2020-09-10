@@ -2,7 +2,7 @@
 
 ## When
 
-If you're unsure that you're building something people want
+If you're unsure that you're building something people want; in other words if you have correctly identified both a problem and people that have that problem.
 
 ## Why
 
@@ -10,10 +10,12 @@ If you're not sure you have a problem and you're not sure you have a customer, y
 
 ## General thoughts
 
-- Problems define your customers. Specifically, they unite your customers.
+- Problems define your customers. Specifically, they unite your customers. So is the problem repeated across multiple people and can you define what groups them?
 - A key way to understand your customer's problems is to step into their workflow.
-  - A workflow is anything someone is trying to acheive. This can be more or less defined
+  - A workflow is anything someone is trying to achieve. This can be more or less defined
   - This can be defined in Gherkin: Given a person has these conditions, when they do X, Y doesn't happen (or happen well)
+  - So pretty much: pay attention to the 'Given' - it will hint at whether this is a broad or narrow problem
+  - Narrow problems are fine, as long as they are valuable enough to eat as you build a solution for them
 - Customers may not understand their problems, so you may have to step out of their processes
 - **This is not about solutions. If you focus on finding customers who want solutions, you'll end up with horses on steroids**
 
@@ -21,7 +23,7 @@ If you're not sure you have a problem and you're not sure you have a customer, y
 
 - Diverge, observe and pay attention to broad strokes
 - Document at least 6 cases where you see a repeated problem
-- Converge on specific hypothesese (this thing / no-thing is a problem because it stops you from doing / not-doing)
+- Converge on specific hypotheses (this thing / no-thing is a problem because it stops you from doing / not-doing)
 - Confirm (get out of the building)
 
 ## Specific tactics

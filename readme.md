@@ -9,10 +9,9 @@ See if [[Amazon Leadership Principles]] could work
 ## Discover
 
 - [[Find a problem]]
-- Gather data
-  - [[Customer Discovery]]
-  - User interviews ([[record]] and transcibe everything)
-  - Competitor Research
+- [[Customer Discovery]]
+- [[Anticipate risk]]
+- Competitor Research
 - Analyse data
   - Hypotheses (x is happening because y)
   - Are things that shouldn't fail failing
@@ -85,8 +84,8 @@ See if [[Amazon Leadership Principles]] could work
 [mindset]: mindset "Mindset"
 [by problem]: by-problem "Index: by problem"
 [Amazon Leadership Principles]: amazon-leadership-principles "Amazon Leadership Principles"
+[Find a problem]: find-a-problem "Find a Problem"
 [Customer Discovery]: customer-discovery "Customer Discovery"
-[record]: record "Record"
 [Value Prototyping]: value-prototyping "Value Prototyping"
 [work backwards]: work-backwards "Work Backwards"
 [Customer Success Metrics]: customer-success-metrics "Customer Success Metrics"

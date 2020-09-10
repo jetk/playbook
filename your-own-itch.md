@@ -1,6 +1,6 @@
 # Your Own Itch
 
-Be extremely careful becuase if you are in any way imaginative, you'll always focus on the scratch, not the itch. Scratching an itch is terrible idea.
+Be extremely careful because if you are in any way imaginative, you'll always focus on the scratch, not the itch. Scratching an itch is terrible idea.
 
 Figuring out that the itch is causing you discomfort and making you want to scrape at it with your nails is pure gold, because you realised that the problem you're solving is continued itching.
 
