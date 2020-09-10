@@ -86,6 +86,7 @@ See if [[Amazon Leadership Principles]] could work
 [Amazon Leadership Principles]: amazon-leadership-principles "Amazon Leadership Principles"
 [Find a problem]: find-a-problem "Find a Problem"
 [Customer Discovery]: customer-discovery "Customer Discovery"
+[Anticipate risk]: anticipate-risk "Anticipate Risk"
 [Value Prototyping]: value-prototyping "Value Prototyping"
 [work backwards]: work-backwards "Work Backwards"
 [Customer Success Metrics]: customer-success-metrics "Customer Success Metrics"

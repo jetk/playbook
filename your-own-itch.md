@@ -12,7 +12,7 @@ You have identified a problem, usually by an instinctive half-baked solution you
 
 ## Why
 
-You are extremely capabale of spotting problems. You just need discipline to stay focused on the problem instead of falling in love with the solution.
+You are extremely capable of spotting problems. You just need discipline to stay focused on the problem instead of falling in love with the solution.
 
 ## Specific Tactics
 
