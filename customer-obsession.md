@@ -21,13 +21,16 @@ Customer problems should be the biggest driver of what you do. It will end argum
 
 ## General thoughts
 
-- ?
+- Customer problems are a stable target; your product is not.
+- Customers hire your product to solve a problem
+- Customers don't want a quarter-inch drill, they want a quarter-inch hole
+
 
 ## General approach
 
 - If you can measure what your customer cares about, do it
-- If there are several things that the customers care about, prioritise
-- Focus on their succesful outcomes, and [[work backwards]] from there
+- If there are several things that the customers care about, prioritize
+- Focus on their successful outcomes, and [[work backwards]] from there
 
 ## Specific tactics
 

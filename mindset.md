@@ -6,6 +6,9 @@ The attitude or mindset you have as a product manager is the key determining fac
 
 If you are going to do this right, you have to understand: Why Do Product Management.
 
+Remember: the playbook can change. The rules can change. Right now, these are the best rules for doing the following: Identify a problem that really needs solving, design a usable, feasible, viable solution, deliver and spread it, measure its success and live to solve another problem. For now, that's why you're doing PM, in **this set of ways**.
+
+
 ### Solo / Greenfield
 
 If you're just starting on something, stop. 'Something' implies you had a cool idea for a product and are trying to figure out how to build it. The more you do so, the more you fall in love with your product.
