@@ -2,7 +2,7 @@
 
 These will apply to greater or lesser degree in relationship to the act of making a product.
 
-They are roughly ranked in frequency. Ownership is last because it's always important.
+They are roughly ranked in frequency. Ownership is last because it's always important, and orthogonal to other techniques.
 
 Most critical LPs for Amazon PMs are bolded; however I chose this order as they apply to the doing of product, rather than the working as a product manager.
 
@@ -19,7 +19,7 @@ Most critical LPs for Amazon PMs are bolded; however I chose this order as they 
 9. Insist on the highest standards
 10. **Earn Trust**
 11. [[Are Right, A Lot]]
-12. Have Backbone, Disagree and Commit
+12. **[[Have Backbone, Disagree and Commit]]**
 13. Hire and develop the best
 14. **[[Ownership]]**
 
