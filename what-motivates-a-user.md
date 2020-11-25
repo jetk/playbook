@@ -25,3 +25,12 @@ Some humans might not know they have a problem. This results in a more circuitou
 If the good doctor is using scheduling software to book their appointments, they might be surprised and delighted to find that the scheduling software one day surfaces analytics on the surgeries they are performing and warning them that they are accidentally clustering extremely difficult surgeries at the end of the day, contributing to their stress.
 
 On the other hand, they might be unaware that their handwriting is terrible, resulting in patients not getting correct medication, leading to re-admissions. In this case, an enterprising peddler might make them aware that other doctors have the same problem and suggest dictation software.
+
+
+## How Humans solve their problems
+
+Humans instinctively prioritize. However, their instincts don't always line up with their rational priorities. However, humans will typically tackle problems in an order that is valid to them. More often than not, this means tackling urgent things over non-urgent things, including non-urgent important things.
+
+### Consequences
+
+Humans don't always grok the consquence of their actions. It's not a matter of not knowing; Consider the whisky afficionado doctor (I guarantee there is at least one doctor that drinks too much, and having partied with medics I'm willing to bet it's more than one). It's a matter of not having that consequence present or not caring. As a product maker, it's your responsibility to think through any consequences of your solution, even if you don't sell booze. Your tutorial system might leave blind spots in your user's knowledge; a certain way of allowing users to structure a webstore might make it harder for their customers to find things, etc.
