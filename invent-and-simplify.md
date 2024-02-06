@@ -2,4 +2,4 @@
 
 In product: think about what people are trying to achieve, invent a simple way of achieving it. Don't stray too far from their workflow initially, but bring them towards simplicity
 
-In describing your product: if you can describe your product in plain english, you've probably thought about it in detail
+In describing your product: if you can describe your product in plain English, you've probably thought about it in detail
